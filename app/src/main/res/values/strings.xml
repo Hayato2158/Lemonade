@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">レモネード</string>
+    <string name="lemon_select">画面をタップしてレモンを収穫しよう</string>
+    <string name="lemon_squeeze">そのままタップし続けてレモンを絞ろう</string>
+    <string name="lemon_drink">タップしてレモネードを飲もう</string>
+    <string name="lemon_empty_glass">タップしておかわりを作ろう</string>
+    <string name="lemon_tree_content_description">レモンの木</string>
+    <string name="lemon_content_description">レモン</string>
+    <string name="lemonade_content_description">いただきます</string>
+    <string name="empty_glass_content_description">ごちそうさまでした</string>
+</resources>
